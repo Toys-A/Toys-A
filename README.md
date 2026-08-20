@@ -66,6 +66,8 @@ Demo: [nyzxi.com](https://nyzxi.com)
 ### Elsewhere
 
 - Blog: [nyzx.de](https://nyzx.de)
+- 影视站: [yuzhixi.tv](https://yuzhixi.tv)
+- 服务器探针: [s.uo.do](https://s.uo.do)
 - 邮箱: toyasovo@gmail.com
 
 ---
