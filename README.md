@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://nyzx.de"><img src="https://img.shields.io/badge/Blog-nyzx.de-00ADD8?style=flat-square&logo=Blogger&logoColor=white" /></a>
   <a href="https://github.com/Toys-A"><img src="https://img.shields.io/badge/GitHub-Toys--A-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://git.uo.do"><img src="https://img.shields.io/badge/Gitea-Internal-609926?style=flat-square&logo=gitea&logoColor=white" /></a>
+  <a href="https://git.uo.do/Toyas"><img src="https://img.shields.io/badge/Gitea-Internal-609926?style=flat-square&logo=gitea&logoColor=white" /></a>
   <a href="mailto:toyasovo@gmail.com"><img src="https://img.shields.io/badge/Email-toyasovo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 
